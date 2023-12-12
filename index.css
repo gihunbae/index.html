@@ -1,0 +1,22 @@
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    min-height: 100vh;
+    /* height: 800px; */
+    background-color: brown;
+}
+#login_box {
+    width: 260px;     
+    background-color: burlywood;
+    border: rebeccapurple 3px solid;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px;
+}
+#btn {
+    box-shadow: 1px 1px 1px;
+}
+
